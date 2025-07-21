@@ -48,7 +48,7 @@ It enables gesture-based control systems and intuitive human-computer interactio
 
 ## 🔗 Links
 
-- 👨‍💻 **Author**: [Yashika Sharma](https://www.linkedin.com/in/krishnachopra)  
+- 👨‍💻 **Author**: [Yashika Sharma](https://www.linkedin.com/in/yashika-sharma-906932351)  
 - 🐙 **GitHub**: [github.com/padopadi](https://github.com/padopadi)
 
 ---
